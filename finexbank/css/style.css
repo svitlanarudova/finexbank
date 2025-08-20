@@ -1718,7 +1718,7 @@ body.menu-open {
 @media (max-width: 58.75em) {
   .bottom-item-investments {
     min-inline-size: 34.375rem;
-    scroll-snap-align: stat;
+    scroll-snap-align: start;
   }
 }
 @media (max-width: 45em) {
