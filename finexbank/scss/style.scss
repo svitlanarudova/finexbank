@@ -1243,7 +1243,7 @@ $headerHeightSmall: rem(70);
 
    @media (max-width: toEm(940)) {
       min-inline-size: rem(550);
-      scroll-snap-align: stat;
+      scroll-snap-align: start;
    }
 
    @media (max-width: toEm(720)) {
@@ -2268,3 +2268,4 @@ $headerHeightSmall: rem(70);
 }
 
 // =====================================
+
